@@ -1,0 +1,62 @@
+.dot{
+    display:inline-block;
+    width:10px;
+    height: 10px;
+    border-radius: 10px;
+}
+.dot.LOW{
+    background-color: red;
+}
+.dot.MEDIUM{
+    background-color: rgb(255, 255, 0);
+}
+.dot.GOOD{
+    background-color: rgb(18, 148, 18);
+}
+.past{
+    opacity: 25%;
+}
+.hide{
+    display: none;
+}
+.price{
+    font-size: 50%;
+}
+.seat{
+    display:inline-block;
+    position: absolute;
+    width:6px;
+    height: 6px;
+    border-radius: 10px;
+    background-color: #DDDDDD;
+}
+.seat.available{
+    background-color: #23cf40;
+}
+.seat.Z26B3B1C1-9DF2-404D-B1B4-7F2CAE103B73.available{
+    background-color: red;
+}
+.seat.available.Z12B44C00-FEA3-4B1C-A903-183B4BF65BF6{
+    background-color: rgb(9, 12, 163);
+
+}
+.box{
+    width:100px;
+    height:100px;
+    border:solid thin black;
+    background-color:#ffff80;
+    border-radius: 10px;
+}
+.Evening{
+   
+}
+.Matinee{
+
+}
+
+.as{
+   background-image: url('image/rt5.jpeg');
+    height: 700px;
+    width: 100%;
+    
+}
